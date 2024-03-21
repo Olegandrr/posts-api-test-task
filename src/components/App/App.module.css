@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(244, 244, 248);
+}
+
+.app-wrapper {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin-left: 50%;
+  transform: translate(-50%);
+  margin-top: 50px;
+}
+
+.title {
+  align-items: center;
+  color: #1c2185;
+}
+
+

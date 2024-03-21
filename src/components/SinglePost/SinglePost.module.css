@@ -1,0 +1,16 @@
+.article-title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.article-body {
+  font-size: 2em;
+  text-align: left;
+  border-top: 1px solid gray;
+  line-height: 2;
+}
+
+.article-author {
+  text-align: right;
+  border-top: 1px solid gray;
+}
